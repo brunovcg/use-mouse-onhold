@@ -9,13 +9,13 @@ TSDX scaffolds your new library inside `/src`, and also sets up a [Parcel-based]
 The recommended workflow is to run TSDX in one terminal:
 
 ```bash
-npm i use-mouse-onhold
+npm i @brunovcg/use-mouse-onhold
 ```
 
 or
 
 ```bash
-yarn add use-mouse-onhold
+yarn add @brunovcg/use-mouse-onhold
 ```
 
 ## Basic Exemple
