@@ -1,4 +1,4 @@
-# useMouseOnHold
+# useOnMouseHold
 
 This React hook helps us to add a hold event to mouse left button.
 
@@ -9,13 +9,13 @@ TSDX scaffolds your new library inside `/src`, and also sets up a [Parcel-based]
 The recommended workflow is to run TSDX in one terminal:
 
 ```bash
-npm i @brunovcg/use-mouse-onhold
+npm i @brunovcg/use-on-mouse-hold
 ```
 
 or
 
 ```bash
-yarn add @brunovcg/use-mouse-onhold
+yarn add @brunovcg/use-on-mouse-hold
 ```
 
 ## Basic Exemple
@@ -26,7 +26,7 @@ On the functional component you are setting this hook.
 
 ```javascript
 // Import useRef hook and useMouseOnRef
-import { useOnMouseHold } from 'use-mouse-onhold';
+import { useOnMouseHold } from 'use-on-mouse-hold';
 import { useRef } from 'react';
 
 export function MyComponent() {
@@ -58,7 +58,7 @@ Hold the button, and check the result on your console.
 
 ```javascript
 // Import useRef hook and useMouseOnRef
-import { useOnMouseHold } from 'use-mouse-onhold';
+import { useOnMouseHold } from 'use-on-mouse-hold';
 import { useRef } from 'react';
 
 export function MyComponent() {
