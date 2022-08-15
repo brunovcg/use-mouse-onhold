@@ -58,7 +58,8 @@
     "event",
     "onmousehold",
     "mouse",
-    "mousehold"
+    "mousehold",
+    "useonmousehold"
   ],
   "devDependencies": {
     "@size-limit/preset-small-lib": "^8.0.1",
