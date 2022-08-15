@@ -4,9 +4,7 @@ This React hook helps us to add a hold event to mouse left button.
 
 ## Install
 
-TSDX scaffolds your new library inside `/src`, and also sets up a [Parcel-based](https://parceljs.org) playground for it inside `/example`.
-
-The recommended workflow is to run TSDX in one terminal:
+The recommended workflow is to run in one terminal:
 
 ```bash
 npm i @brunovcg/use-on-mouse-hold
