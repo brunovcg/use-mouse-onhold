@@ -1,7 +1,7 @@
 # useOnMouseHold
 
 This React hook helps us to add a hold event to mouse left button.
-It will recursively call that function while the button is being hold.
+It will recursively call the callback function we passed as an argument to this hook, while the element we applied it for is being pressed and hold.
 
 ## Install
 
