@@ -25,7 +25,7 @@ On the functional component you are setting this hook.
 
 ```javascript
 // Import useRef hook and useMouseOnRef
-import { useOnMouseHold } from 'use-on-mouse-hold';
+import { useOnMouseHold } from '@brunovcg/use-on-mouse-hold';
 import { useRef } from 'react';
 
 export function MyComponent() {
@@ -57,7 +57,7 @@ Hold the button, and check the result on your console.
 
 ```javascript
 // Import useRef hook and useMouseOnRef
-import { useOnMouseHold } from 'use-on-mouse-hold';
+import { useOnMouseHold } from '@brunovcg/use-on-mouse-hold';
 import { useRef } from 'react';
 
 export function MyComponent() {
